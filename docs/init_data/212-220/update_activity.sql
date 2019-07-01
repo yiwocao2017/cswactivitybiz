@@ -1,0 +1,1 @@
+ALTER TABLE tr_activity ADD single_num INT(11) NULL after sign_num;

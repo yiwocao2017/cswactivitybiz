@@ -1,0 +1,10 @@
+truncate tr_activity;
+truncate tr_appoint;
+truncate tr_comment;
+truncate tr_news;
+truncate tr_order;
+truncate tr_ride_talk;
+truncate tr_rider_auth;
+truncate tr_tease;
+truncate tr_travel_note;
+truncate tr_travel_note_pic;
